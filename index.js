@@ -7,10 +7,10 @@ const fs = require('fs');
 const questions = require('./lib/questions');
 const containers = require('./lib/containers');
 
-const OUTPUT_DIR = path.resolve(__dirname, 'output');
+const OUTPUT_DIR = path.resolve(__dirname, 'dist');
 const outputPath = path.join(OUTPUT_DIR, 'team.html');
 
-const render = require('./lib/htmlRenderer');
+const render = require('./lib/htmlRender');
 
 // array to store employee objects as they are created
 const employees = [];
