@@ -5,7 +5,7 @@ This is a a Node.js command-line application that takes in information about emp
 
 Here is an example HTML file generated from this application: 
 
-<img src="./images/exampleHTML.jpg" alt="example HTML">
+<img src="images/exampleHTML.jpg" alt="example HTML">
 
 
 ## Table of Contents
